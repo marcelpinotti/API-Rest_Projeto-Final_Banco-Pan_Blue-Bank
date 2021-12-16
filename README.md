@@ -115,7 +115,8 @@ O sistema foi construído com as seguintes estruturas de dados:
 
 ##### Endereços:
 ```
-{     "idEndereco": 0,
+{    
+      "idEndereco": 0,
       "bairro": "string",
       "cep": "string",
       "cidade": "string",
@@ -123,7 +124,7 @@ O sistema foi construído com as seguintes estruturas de dados:
       "estado": "AM",
       "logradouro": "string",
       "numero": 0
-    },
+}
 
 ```
 
