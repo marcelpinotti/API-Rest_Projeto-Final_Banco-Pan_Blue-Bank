@@ -1,6 +1,6 @@
 # Aplicação do BlueBank - Squad Cloud9 
 
-Aplicação construída como trabalho final do curso proporcionado pelo banco Pan e pela Gama Accademy. Foram dois meses intensivos de aulas diárias, com foco em desenvolvimento full stack utilizando Java, Spring Boot, MySql e AWS. O projeto consiste em desenvolver uma solução que simulasse um banco com suas transações. O time foi desafiado a partir de critérios mínimos a serem atendidos a pensar uma solução com as regras negócios a serem seguidas.
+Aplicação construída como trabalho final do curso proporcionado pelo banco Pan e pela Gama Academy. Foram dois meses intensivos de aulas diárias, com foco em desenvolvimento back-end utilizando Java, Spring Boot, MySql e AWS. O projeto consiste em desenvolver uma solução que simulasse um banco com suas transações. A Squad foi desafiada a partir de critérios mínimos a serem atendidos a pensar uma solução com as regras negócios a serem seguidas.
 
 ## 👨‍💻 Começando
 
@@ -128,14 +128,9 @@ O sistema foi construído com as seguintes estruturas de dados:
 
 ```
 
-
-
-
 ## 📋 Pré-requisitos
 
-Para executar o código foi utilzada a IDE ItelliJ e/ou Eclipse as linguagens Java, Spring e MySQL. É necessário possuir uma IDE que execute a aplicação springboot para teste de em repositório local. Na execução do projeto também foram utilizados Workbench MySQL, xampp, Dbeaver, Swagger e algum navegador de sua preferência.
-
-
+Para executar o código foi utilzada a IDE ItelliJ e/ou Eclipse a linguagem Java, Spring e MySQL. É necessário possuir uma IDE que execute a aplicação SpringBoot para teste em repositório local. Na execução do projeto também foram utilizados Workbench MySQL, xampp, Dbeaver, Swagger e algum navegador de sua preferência.
 
 ## 🔧 Instalação
 
@@ -171,7 +166,7 @@ http://localhost:5000
 ```
 ## 📦 Desenvolvimento
 
-Esse código é uma alternativa para  aplicação bancária back-end com foco em construção de banco de dados de base de cliente e transações. Essa não é a unica forma de se realizar essa tarefa, além de sempre ser possívle a revisão por pares para que ele apresente novas funcionalidades e se torne mais limpos e performáticos.
+Esse código é uma alternativa para aplicação bancária back-end com foco em construção de banco de dados de base de cliente e transações. Essa não é a unica forma de se realizar essa tarefa, além de sempre ser possível a revisão por pares para que ele apresente novas funcionalidades e se torne mais limpo e performático.
 
 ## 🔌	Endpoints
 Para acessar o banco de dados, é necessário acessar os endpoints que esta configurados no caminho abaixo + url do caminho nas tabelas:
@@ -213,11 +208,6 @@ http://localhost:5000
 ## ☁️ Demais Instalações:
 
 * Lambda: O arquivo lambda se encontra no arquivo bluebank-lambda.zip, para configurá-lo não é necessário extraí-lo. Basta entrar np serviço AWS lambda com uma conta válida e configurar como na documentação que segue: https://docs.aws.amazon.com/pt_br/lambda/latest/dg/configuration-function-zip.html
-* Script SQL: 
-
-
-
-
 
 ## 🛠️ Construído com
 
